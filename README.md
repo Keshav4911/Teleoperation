@@ -82,6 +82,6 @@ npm start
 # Robot Simulation Screen:
 ![Screenshot (34)](https://github.com/user-attachments/assets/ea425f60-24f1-4da1-988f-32fb6fe41463)
 
-## Usage Demo
+## Usage Video Demo
 
-TODO: Add demo video here.
+https://www.loom.com/share/8635cdf6580e4e7d956548d556e21071?sid=fccb7bfc-19d3-434c-add4-94491b1446e7
