@@ -41,7 +41,3 @@ TODO: Add usage instructions here.
 ## Usage Demo
 
 TODO: Add demo video here.
-
-## Notes for @keshav
-
-* Remove venv and node_modules, __pycache__,  directories and add it to .gitignore
